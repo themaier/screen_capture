@@ -1,0 +1,6 @@
+pyautogui
+pynput
+requests
+pydantic
+pyinstaller
+uuid
